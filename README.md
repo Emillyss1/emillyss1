@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Emilly! 👋
 
-<!--
-**Emillyss1/emillyss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Desenvolvedora Júnior com foco em Python e automação de processos. Busco criar soluções eficientes, organizar fluxos de dados e otimizar rotinas através do código.
 
-Here are some ideas to get you started:
+Possuo experiência com:
+- 🐍 Desenvolvimento de scripts e automações em **Python**
+- ⚙️ Integração de APIs e fluxos de trabalho
+- 🗄️ Manipulação e gerenciamento de bancos de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Competências Técnicas
+- **Linguagens:** Python
+- **Frameworks e Ferramentas:** FastAPI, SQLAlchemy
+- **Foco:** Automação, Backend, Engenharia de Dados Inicial
+
+---
+
+## Contato
+- [LinkedIn:] (https://www.linkedin.com/in/emilly-rayanna-soares/)
+- [E-mail:] (emillyray1996@gmail.com)
